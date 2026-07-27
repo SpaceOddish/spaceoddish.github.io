@@ -3,20 +3,12 @@ layout: default
 title: About me
 ---
 
-Hello! 
-
----
-Dupcia.
----
-
-> It supports blockquotes, too.
+Hello! Welcome to my personal blog. I like fannish things, reading fanfic in particular.
 
 ## blueface on the Internet
 
-* [blueface][github] on GitHub (Source Code)
-* [nolsigan][nolsigan] nolsigan.github.io
-* [rjsteckel][rjsteckel] data, beer, and stats
+* [my ao3][ao3] on archiveofourown.org
+* [my tumblr][tumblr] deepfriedbread.tumblr.com
 
-[github]: https://github.com/tnguyen/blueface/
-[nolsigan]: http://nolsigan.github.io
-[rjsteckel]: http://rjsteckel.github.io
+[ao3]: https://archiveofourown.org/users/ofermod
+[tumblr]: https://deepfriedbread.tumblr.com
