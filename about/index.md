@@ -5,7 +5,7 @@ title: About me
 
 Hello! Welcome to my personal blog. I like fannish things, reading fanfic in particular.
 
-## blueface on the Internet
+## My things on the Internet
 
 * [my ao3][ao3] on archiveofourown.org
 * [my tumblr][tumblr] deepfriedbread.tumblr.com
