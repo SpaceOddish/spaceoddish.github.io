@@ -1,10 +1,10 @@
 # Jekyll Defaults
-title: blueface
-description: A small and simple site I made to test out Jekyll.
+title: SpaceOddish Blog
+description: Welcome to my fannish personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://thien.github.io/blueface/"
-github: http://github.com/tnguyen/blueface
+url: "https://spaceoddish.github.io"
+github: http://github.com/spaceoddish
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
