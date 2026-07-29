@@ -45,11 +45,19 @@ header h1 {
 header h1 a {
     color: #ffffff;
     font-size: 32px;
-    background-color: #0f2e57;
+    filter: url(#grainy);
+    background-color: #3b6a89;
+    background-image: radial-gradient(ellipse at 35% 0%, #7e63b1 0%, #7e63b100 70%), radial-gradient(ellipse at 65% 100%, #57b8d2 0%, #57b8d200 70%);
+    opacity: 1;
+    background-color: #593F62;
     padding: 10px 13px;
 }
 header h1 a:hover {
-    color: #76a0dd;
+    filter: url(#grainy);
+    background-color: #3b6a89;
+    background-image: radial-gradient(ellipse at 35% 0%, #57b8d2 0%, #57b8d200 70%), radial-gradient(ellipse at 65% 100%, #7e63b1 0%, #7e63b100 70%);
+    opacity: 1;
+    color: #ffffff;
 }
 #nav_container {
     margin-left: auto;
