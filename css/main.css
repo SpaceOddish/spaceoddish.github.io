@@ -11,7 +11,7 @@
     padding: 0px;
 }
 body {
-    color: #141515;
+    color: #220c10ff;  /* colour changed to coffee bean */
     font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     text-rendering: optimizeLegibility;
     overflow-y: scroll;
@@ -25,7 +25,7 @@ h5,
 h6 {
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
     font-weight: 400;
-    color: #315572;
+    color: #89043dff; /* colour changed to dark amaranth */
 }
 #main h4 {
     line-height: 1.6em;
@@ -45,11 +45,11 @@ header h1 {
 header h1 a {
     color: #ffffff;
     font-size: 32px;
-    background-color: #0f2e57;
+    background-color: #3066beff; /* colour changed to  smart-blue*/
     padding: 10px 13px;
 }
 header h1 a:hover {
-    color: #76a0dd;
+    color: #fffaccff; /* colour changed to lemon chiffon*/
 }
 #nav_container {
     margin-left: auto;
@@ -59,7 +59,7 @@ header h1 a:hover {
 	width: 640px;
 }
 #current {
-    background-color: #b91414;
+    background-color: #b91414; /* no idea what it modifies */
 }
 nav {
     font-weight: 200;
@@ -75,14 +75,14 @@ nav ul li {
 	font-size: 105%;
 }
 nav ul li a {
-    color: #324787;
+    color: #89043dff; /* this is navigation button default text, changed to dark amaranth */
     padding: 8px 9px;
     margin: 0 -10px 0px;
     text-transform: uppercase;
 }
 nav ul li a:hover {
     color: #ffffff;
-    background-color: #000000;
+    background-color: #220c10ff; /* this is navigation button background colour, changed to coffee bean */
 }
 .heading {
     font: 1.5em Raleway, Helvetica;
@@ -91,14 +91,14 @@ nav ul li a:hover {
     margin-bottom: 1.3em;
 }
 .heading a {
-    color: #126ab1;
+    color: #126ab1; /* no idea what this is */
 }
 p em {
     font-style: italic;
 	font-size: 98%;
 }
 .meta {
-    color: #666666;
+    color: #666666; /* no idea what this is */
     font-family: -apple-system, "Roboto", Courier, mono;
     font-weight: 100;
     text-align: left;
@@ -134,7 +134,7 @@ article {
 .label {
     display: inline-block;
     padding: .3em .6em .4em;
-    color: #fff;
+    color: #fff; /* no idea what this is */
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
@@ -145,13 +145,13 @@ article {
 .label a {
     font: 75% -apple-system, Roboto, Helvetica Neue, Helvetica, "Open Sans", Arial, sans-serif;
     font-weight: 300 !important;
-    color: #ffffff;
+    color: #ffffff; /* no idea what this is */
 }
 .label-default {
-    background-color: #254d82
+    background-color: #3066beff /* tags default colour, changed to smart blue */
 }
 .label-default:hover {
-    background-color: #75a0de
+    background-color: #84cae7ff /* tags hover colour, changed to sky blue light */
 }
 .label-default a:hover {
     color: #ffffff !important
@@ -166,7 +166,7 @@ article {
 }
 hr {
     margin: 32px 0em;
-    background: #eee;
+    background: #eee; /* no idea what this is */
     height: 1px;
     border-style: none;
 }
@@ -185,24 +185,24 @@ li {
 	margin-bottom: 5px;
 }
 a {
-    color: #76a0de;
+    color: #84cae7ff; /* this is the dot next to the date default colour, changed to sky blue light*/
     text-decoration: none;
 }
 a:hover {
-    color: #274977
+    color: #3066beff /* this is the dot next to the date hover colour, changed to smart blue*/
 }
 #main p img {
     width: 100%
 }
 article p a {
-    border-bottom: 1px solid #e4edf9 font-weight: normal;
+    border-bottom: 1px solid #e4edf9 font-weight: normal; /* no idea what this is */
     font-style: normal;
 }
 .badge {
-    background-color: #c25a5a;
+    background-color: #c25a5a; /* no idea what this is */
 }
 blockquote {
-    border-left: 5px solid #8197b9;
+    border-left: 5px solid #8197b9; /* not changed yet */
     padding-left: 1.5em;
     padding-top: 0.32px;
     margin-top: 1em;
@@ -212,7 +212,7 @@ blockquote {
 }
 footer {
     font: 80% Roboto;
-    color: #33536b;
+    color: #33536b; /* not changed yet */
     font-weight: 300;
     margin-top: 32px;
     height: 3em;
@@ -225,7 +225,7 @@ footer .contact {
     margin-left: auto;
 }
 footer .contact a {
-    color: #90a7ba
+    color: #90a7ba /* not changed yet */
 }
 footer .rss {
     margin-top: 1.1em;
@@ -252,8 +252,8 @@ code {
     -moz-border-radius: 1px;
     border-radius: 1px;
     position: relative;
-    color: #494949;
-    background-color: #f7f7f7;
+    color: #494949; /* not changed yet */
+    background-color: #f7f7f7; /* not changed yet */
     padding: 0.32px 0.5em;
 	font-size: 0.9em;
 }
@@ -277,12 +277,12 @@ code {
 #tags li span {
     font-family: Roboto, Helvetica Neue, Helvetica, Arial, Sans-serif !important;
     font-weight: 300;
-    color: #305471;
+    color: #3066beff; /* this is date on the archive page, changed to smart blue */
 }
 #archive li span.details,
 #tags li span.details {
     font-weight: 300;
-    color: #9f9f9f;
+    color: #9f9f9f; /* this is number of words on the archive page, it's grey */
     font: 14px "Open Sans", Helvetica Neue, Helvetica, Arial, Sans-serif !important;
     position: relative;
     top: 2px;
