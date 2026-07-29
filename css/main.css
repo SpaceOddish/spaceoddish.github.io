@@ -25,7 +25,7 @@ h5,
 h6 {
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
     font-weight: 400;
-    color: #315572;
+    color: #89043d;
 }
 #main h4 {
     line-height: 1.6em;
@@ -45,11 +45,11 @@ header h1 {
 header h1 a {
     color: #ffffff;
     font-size: 32px;
-    background-color: #0f2e57;
+    background-color: #317263;
     padding: 10px 13px;
 }
 header h1 a:hover {
-    color: #76a0dd;
+    color: #84cae7;
 }
 #nav_container {
     margin-left: auto;
