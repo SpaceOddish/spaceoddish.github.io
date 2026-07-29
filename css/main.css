@@ -11,7 +11,7 @@
     padding: 0px;
 }
 body {
-    color: #141515; /* what is this element */
+    color: #141515;
     font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     text-rendering: optimizeLegibility;
     overflow-y: scroll;
@@ -25,7 +25,7 @@ h5,
 h6 {
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
     font-weight: 400;
-    color: #315572; /* what is this element */
+    color: #315572;
 }
 #main h4 {
     line-height: 1.6em;
@@ -45,22 +45,21 @@ header h1 {
 header h1 a {
     color: #ffffff;
     font-size: 32px;
-    filter: url(#grainy);
     background-color: #3b6a89; /* this is the main blog header background and below are gradients */
  	background-image: radial-gradient(ellipse at 35% 0%, #7e63b1 0%, #7e63b100 70%),
 		radial-gradient(ellipse at 65% 100%, #57b8d2 0%, #57b8d200 70%);
     opacity: 1;
-    background-color: #593F62;
+    /* background-color: #593F62; */
+	background-color: #0f2e57;
     padding: 10px 13px;
 }
 header h1 a:hover {
-    filter: url(#grainy);
     background-color: #3b6a89; /* this is the main blog header background HOVER and below are gradients */
     background-image:
 		radial-gradient(ellipse at 35% 0%, #57b8d2 0%, #57b8d200 70%),
 		radial-gradient(ellipse at 65% 100%, #7e63b1 0%, #7e63b100 70%);
     opacity: 1;
-    color: #ffffff;
+	color: #76a0dd;
 }
 #nav_container {
     margin-left: auto;
@@ -70,7 +69,7 @@ header h1 a:hover {
 	width: 640px;
 }
 #current {
-    background-color: #b91414; /* what is this element */
+    background-color: #b91414;
 }
 nav {
     font-weight: 200;
@@ -82,18 +81,18 @@ nav {
 }
 nav ul li {
     display: inline;
-    color: #9f9f9f; /* what is this element */
+    color: #9f9f9f;
 	font-size: 105%;
 }
 nav ul li a {
-    color: #324787; /* what is this element */
+    color: #324787;
     padding: 8px 9px;
     margin: 0 -10px 0px;
     text-transform: uppercase;
 }
 nav ul li a:hover {
-    color: #ffffff; /* what is this element */
-    background-color: #190B28;
+    color: #ffffff;
+    background-color: #000000;
 }
 .heading {
     font: 1.5em Raleway, Helvetica;
@@ -102,7 +101,7 @@ nav ul li a:hover {
     margin-bottom: 1.3em;
 }
 .heading a {
-    color: #126ab1; /* what is this element */
+    color: #126ab1;
 }
 p em {
     font-style: italic;
@@ -145,7 +144,7 @@ article {
 .label {
     display: inline-block;
     padding: .3em .6em .4em;
-    color: #fff; /* what is this element */
+    color: #fff;
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
@@ -156,13 +155,13 @@ article {
 .label a {
     font: 75% -apple-system, Roboto, Helvetica Neue, Helvetica, "Open Sans", Arial, sans-serif;
     font-weight: 300 !important;
-    color: #ffffff; /* what is this element */
+    color: #ffffff;
 }
 .label-default {
-    background-color: #190B28 /* this is the tags background */
+    background-color: #254d82
 }
 .label-default:hover {
-    background-color: #75a0de /* this is the tags hover background */
+    background-color: #75a0de
 }
 .label-default a:hover {
     color: #ffffff !important
@@ -196,11 +195,11 @@ li {
 	margin-bottom: 5px;
 }
 a {
-    color: #76a0de; /* what is this element */
+    color: #76a0de;
     text-decoration: none;
 }
 a:hover {
-    color: #190B28 /* what is this element */
+    color: #274977
 }
 #main p img {
     width: 100%
@@ -210,10 +209,10 @@ article p a {
     font-style: normal;
 }
 .badge {
-    background-color: #c25a5a; /* what is this element */
+    background-color: #c25a5a;
 }
 blockquote {
-    border-left: 5px solid #8197b9; /* what is this element */
+    border-left: 5px solid #8197b9;
     padding-left: 1.5em;
     padding-top: 0.32px;
     margin-top: 1em;
@@ -223,7 +222,7 @@ blockquote {
 }
 footer {
     font: 80% Roboto;
-    color: #33536b; /* what is this element */
+    color: #33536b;
     font-weight: 300;
     margin-top: 32px;
     height: 3em;
@@ -263,8 +262,8 @@ code {
     -moz-border-radius: 1px;
     border-radius: 1px;
     position: relative;
-    color: #494949; /* what is this element */
-    background-color: #f7f7f7; /* what is this element */
+    color: #494949;
+    background-color: #f7f7f7;
     padding: 0.32px 0.5em;
 	font-size: 0.9em;
 }
@@ -288,12 +287,12 @@ code {
 #tags li span {
     font-family: Roboto, Helvetica Neue, Helvetica, Arial, Sans-serif !important;
     font-weight: 300;
-    color: #305471; /* what is this element */
+    color: #305471;
 }
 #archive li span.details,
 #tags li span.details {
     font-weight: 300;
-    color: #9f9f9f; /* what is this element */
+    color: #9f9f9f;
     font: 14px "Open Sans", Helvetica Neue, Helvetica, Arial, Sans-serif !important;
     position: relative;
     top: 2px;
