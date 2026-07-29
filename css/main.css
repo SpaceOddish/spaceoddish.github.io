@@ -56,7 +56,9 @@ header h1 a {
 header h1 a:hover {
     filter: url(#grainy);
     background-color: #3b6a89;
-    background-image: radial-gradient(ellipse at 35% 0%, #57b8d2 0%, #57b8d200 70%), radial-gradient(ellipse at 65% 100%, #7e63b1 0%, #7e63b100 70%);
+    background-image:
+		radial-gradient(ellipse at 35% 0%, #57b8d2 0%, #57b8d200 70%),
+		radial-gradient(ellipse at 65% 100%, #7e63b1 0%, #7e63b100 70%);
     opacity: 1;
     color: #ffffff;
 }
@@ -91,7 +93,7 @@ nav ul li a {
 }
 nav ul li a:hover {
     color: #ffffff;
-    background-color: #000000;
+    background-color: ##190B28;
 }
 .heading {
     font: 1.5em Raleway, Helvetica;
