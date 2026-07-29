@@ -25,7 +25,7 @@ h5,
 h6 {
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
     font-weight: 400;
-    color: #89043d;
+    color: #315572;
 }
 #main h4 {
     line-height: 1.6em;
@@ -45,11 +45,11 @@ header h1 {
 header h1 a {
     color: #ffffff;
     font-size: 32px;
-    background-color: #317263;
+    background-color: #0f2e57;
     padding: 10px 13px;
 }
 header h1 a:hover {
-    color: #84cae7;
+    color: #76a0dd;
 }
 #nav_container {
     margin-left: auto;
@@ -75,14 +75,14 @@ nav ul li {
 	font-size: 105%;
 }
 nav ul li a {
-    color: #317263;
+    color: #324787;
     padding: 8px 9px;
     margin: 0 -10px 0px;
     text-transform: uppercase;
 }
 nav ul li a:hover {
     color: #ffffff;
-    background-color: #220c10;
+    background-color: #000000;
 }
 .heading {
     font: 1.5em Raleway, Helvetica;
