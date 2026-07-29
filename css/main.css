@@ -75,14 +75,14 @@ nav ul li {
 	font-size: 105%;
 }
 nav ul li a {
-    color: #324787;
+    color: #317263;
     padding: 8px 9px;
     margin: 0 -10px 0px;
     text-transform: uppercase;
 }
 nav ul li a:hover {
     color: #ffffff;
-    background-color: #000000;
+    background-color: #220c10;
 }
 .heading {
     font: 1.5em Raleway, Helvetica;
