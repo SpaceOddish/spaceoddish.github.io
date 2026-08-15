@@ -3,7 +3,7 @@
 layout: post
 title: "Fic library: Pocketbook and Calibre"
 date: 2026-08-15 22:27:00
-tags: [ao3,fic_library,calibre,pocketbook]
+tags: [ao3,ficlibrary,calibre,pocketbook]
 
 ---
 
