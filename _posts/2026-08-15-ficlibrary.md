@@ -10,7 +10,7 @@ I have temporarily put the R adventures with reading statistics on the backburne
 ## My ao3 library
 I currently have over 3k bookmarks on ao3, most of them downloaded and hoarded for future use. You never know which of my old favourites will be in favour again in, say, a year from now. It's always a great idea to archive fics for your (future) personal use, because you never know when this could happen:
 
-![Screenshot of a bookmarked fic on ao3 that was deleted.](/ao3bookmark.webp)
+![Screenshot of a bookmarked fic on ao3 that was deleted.](/assets/images/ao3bookmark.webp)
 
 Something I bookmarked on August 3 is already gone (it's August 15). While I don't know what it was, I don't really need to worry because I certainly have the epub in my library. Another reason to download and read offline is that ao3 sometimes does experience periods of downtime or scheduled maintenance. Because of my extensive use of ebook fics, I personally never experienced ao3 being down.
 
