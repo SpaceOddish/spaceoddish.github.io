@@ -1,0 +1,130 @@
+# 
+
+---
+
+layout: post
+title: "Fic library: Pocketbook and Calibre"
+date: 2026-08-15 22:27:00
+tags: [ao3,fic library,calibre,pocketbook2025]
+
+---
+
+# Fic library: Pocketbook and Calibre
+
+I have temporarily put the R adventures with reading statistics on the backburner and picked up ebook library organisation. I started working on it back in March when my e-reader was acting out (a Pocketbook). It eventually sorted itself out with a firmware update, so I kind of abandoned the project. What better time to pick it up than when it's 30 degrees outside in the middle of summer!
+
+## My ao3 library
+
+I currently have over 3k bookmarks on ao3, most of them downloaded and hoarded for future use. You never know which of my old favourites will be in favour again in, say, a year from now. It's always a great idea to archive fics for your (future) personal use, because you never know when this could happen:
+
+![Image](https://media.discordapp.net/attachments/1456411150022475807/1537211592591024218/image.png?ex=6a80da5b&is=6a7f88db&hm=3f46f9d65929bb2da5b64228412adb55e8081a9ffc0d243b5be4e9ae98b225bc&=&format=webp&quality=lossless&width=2440&height=296)
+
+Something I bookmarked on August 3 is already gone (it's August 15). While I don't know what it was, I don't really need to worry because I certainly have the epub in my library. Another reason to download and read offline is that ao3 sometimes does experience periods of downtime or scheduled maintenance. Because of my extensive use of ebook fics, I personally never experienced ao3 being down.
+
+Originally, back when I first found ao3 and it's option to download in a format of my choice, I used Moon+ Reader on Android and later Apple Books on iOS. For a few years now, I've been exclusively reading on an e-reader since e-ink just doesn't tire my eyes the way phone screens do.
+
+## Pocketbook and fics
+
+Until recently, I never considered actually extensively using Calibre for my fic library. I always treated is as last resort backup and the occasional conversion tool. I am a creature of convenience and don't often fire up a laptop with Calibre, plug in my e-reader, etc. Since I started out with quick downloads on a phone and later I've always used Pocketbooks, the Kindle ecosystem issues have never been a problem for me. I've always had a pretty great pipeline for a wireless and quick transfer of fics directly from phone to e-reader—still do. Here's my process.
+
+### Dropbox and Pocketbook cloud
+
+Pocketbooks offer a special Dropbox app that works really well with them. I set up a separate Dropbox account for my reader and installed the dedicated app for the sync, it usually worked really well. I only needed to drop the files from my phone into the DB app and wait a few seconds for them to sync on the device. I have a dedicated shortcut in the share menu that then suggests the recently used folder in DB, which for me was the *Fics - Downloaded*.
+
+| <img src="file:///Users/olga/Downloads/Zrzut%20ekranu%202026-08-15%20o%2019.35.28.png" title="" alt="Zrzut ekranu 2026-08-15 o 19.35.28.png" width="284"> | <img title="" src="file:///Users/olga/Downloads/Zrzut%20ekranu%202026-08-15%20o%2019.34.19.png" alt="Zrzut ekranu 2026-08-15 o 19.34.19.png" width="219"> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+The DB sync has always worked seamlessly, except for one buggy experience earlier this year that gave me a major scare up until it basically resolved itself after a firmware update. That incident plus the fact that I am somewhat nearing the free storage limit for DB on that account, made me decide to branch out. So I thought why not try the native Pocketbook cloud app.
+
+In Poland, Pocketbooks are distributed and pre-installed with EmpikGo and Legimi, not the Pocketbook store/cloud app. To get rid of them (I've never used them), you have to e-mail Pocketbook customer support to assign your device's serial number with the Pocketbook store/cloud instead. Quick and simple, you only need to do it once.
+
+I've been using Pocketbook cloud as my fic transfer app for a few months now (roughly since spring) and while it has some pros it does have some serious cons, when compared to DB.
+
+**Sync time**. For DB it's just great, no complaints. Fast and quick after enabling WiFi. For Pocketbook cloud it's *almost* the same except the files don't get fully downloaded. It's similar to that option on OneDrive where the cloud files are still sort of visible within your local file system, except when you click on them you need to be logged into the service to open (download) them. So here you need an additional step to be able to actually start reading the new file(s) with the *Download all cloud books* button.
+
+<img title="" src="file:///Users/olga/Library/Application%20Support/marktext/images/2026-08-15-20-07-10-image.png" alt="" width="423" data-align="center">
+
+
+
+It's not *too* bad but it's an extra step and I think the less you have to click around on an e-ink device, the better because these things aren't the fastest.
+
+**Mobile and browser apps**. Again, for DB the app is great and integrates super well with the sharing shortcuts on iOS (see photos above). The browser file upload is just as good when you're on a desktop, that's not really surprising. The Pocketbook cloud app leaves A LOT to be desired, however.
+
+With DB you can select a lot of files and batch upload them at once, while here you've got to do them one by one because with more than one file it can get tricky. I've had situations when upon uploading 20 files, only a few of them showed up on the device. Now I have a system of sorts to do it without any missed files, but it took me a while to get there. Funny that the app underperforms reagarding one thing it should be good at: transferring books.
+
+Another problem with Pocketbook cloud is that it doesn't always tell you that there's already a file with the same name, it sometimes just skips the file. If it was a fic that I forgot I uploaded to my reader like three years ago, I would not be able to locate it that easily. If I'm uploading a WIP I'm currently reading chapter by chapter, I know I have to go to my Pocketbook cloud app and manually delete the older version first. TBH I'd rather have 10 versions of the same file (WIP) than go through this. That was the case with DB, preferrable to these gymnastics.
+
+### Why suddenly Calibre?
+
+So considering my relatively quick and easy upload and download pipline from ao3 to e-reader, why suddenly do a huge overhaul with Calibre?
+
+Mainly because my library got a bit messy at this point. I got the first reader in 2020 and the device got a major bug upon one firmware update. Suddenly, I couldn't open epubs and had to switch to downloading mobi files. At that point, I didn't know mobi files were much, much worse regarding their metadata for my reader (Pocketbook notices ao3 tags from epubs as "genres" which you can then filter files with) and I converted my fics into mobi so that I could use them. That device never regained its epub reading capability until I wiped it a few times (earlier I tried wiping only once or twice). At that point, epubs were suddenly fine to open but—hindsight and all that.
+
+On the new device, I had that mobi library mixed with the epubs that I was downloading from that moment onwards. It was all mostly fine, albeit messy, until a few weeks ago a friend showed me how incredible KOReader looks like with all the plugins and how much I can customise it. And I wanted new covers since Pocketbook really mangles epub covers when downloaded directly from ao3.
+
+## Calibre plugins: Fanficfare
+
+There's this incredible powerhouse of a plugin called [Fanficfare](https://github.com/JimmXinu/FanFicFare). If you're not the kind of person that relies on mobile devices to download and transfer fics, it's likely all you'll ever need for calibre and file sync purposes, especially if you're not batch downloading dozens of files. That usually gets you an error from ao3, since it will act up with high traffic requests (you can experience this directly on ao3 whenever you go through your bookmark pages a bit too fast). So this is an incredible tool that would have been super useful if not for the fact that all the fics I needed to convert and sort their metadata were already in my library. What the plugin taught me in relation to Calibre, however, was that custom columns can extract insane amount of information from other columns.
+
+## Custom columns
+
+So I figured out how to use the Calibre template to get and sort all the metadata I need. This is a snapshot from my library as of now:
+
+![](/Users/olga/Library/Application%20Support/marktext/images/2026-08-15-20-23-11-image.png)
+
+In the *Pairing* and *Main fandom* columns, there's a Calibre template program that looks up the tags from each file from another column and returns a desired value in the respective column that is later reused in the *New Title* column. Another friend of mine showed me that using the fandom and pairing in the title is a useful way to quickly identify what fic this is about. Even without KOReader, in the reading and library app on Pocketbook it has been super useful.
+
+In *Preferences* > *Add your own columns*, you can define each new column: it's displayed name, lookup name, how it behaves, and general description for you not to get lost.
+
+![](/Users/olga/Library/Application%20Support/marktext/images/2026-08-15-21-27-03-image.png)
+
+This is what the inside of *Pairing* looks like:
+
+<img src="file:///Users/olga/Desktop/Zrzut%20ekranu%202026-08-15%20o%2020.27.49.png" title="" alt="" width="629">
+
+The code is a bit clunky but it does the job of looking up all possible combinations for how people tag a given pairing that I found in my files. Usually, the default tag that pops up when you start typing chracter names on ao3 (e.g., in filters) will do just fine, but sometimes it's a variant, especially for older works. For example, here there's *Castiel/Dean Winchester* but also in at least one work there was only *Dean/Cas* as a freeform tag:
+
+```
+program:
+switch_if(
+contains(field('tags'), 'Castiel/Dean Winchester|Dean*/Cas*|Dean Winchester/Castiel Novak', '1', ''), 'Destiel'
+''
+)
+```
+
+For the latter, there would be an empty field in the *pairing* column instead of *Destiel*. I figured out all relevant combos as I scrolled through my file list in Calibre.
+
+In the fandom column, the template looks exactly the same. Here's an excerpt:
+
+```
+program:
+switch_if(
+contains(field('#fandoms'), 'Supernatural', '1', ''), 'Supernatural',
+contains(field('#fandoms'), 'Heated Rivalry', '1', ''), 'Heated Rivalry',
+contains(field('#fandoms'), 'Hannibal', '1', ''), 'Hannibal',
+contains(field('#fandoms'), 'Marvel Cinematic Universe|Captain America|Venom|The Avengers', '1', ''), 'Marvel',
+contains(field('#fandoms'), '.*Star Wars.*|Mandalorian', '1', ''), 'Star Wars',
+contains(field('#fandoms'), 'X-Men', '1', ''), 'X-Men',
+''
+)
+```
+
+## Calibre metadata plugboards
+
+Why are these custom columns useful then, other than just looking neat and making it easy to sort files with in Calibre? They're crucial for using metadata plugboards. These are useful for when you want to do something like change the title when transferring files to your reader.
+
+![Zrzut ekranu 2026-08-15 o 21.42.26.png](/var/folders/1l/bykb55293fl1n2r909tcn8sh0000gn/T/TemporaryItems/NSIRD_screencaptureui_eZoE7S/Zrzut%20ekranu%202026-08-15%20o%2021.42.26.png)
+
+Here, the first plugboard
+
+```
+epub: any device = ([{#newtitle}] -> title)
+```
+
+means that for each epub file whenever transferring to a device, the column "new title" is used to populate the "title". It may become problematic if you ever happen to need to transfer these renamed files back into Calibre, then the *Fandom - Pairing - Title* becomes the default title column. But it's a quick fix to find and replace a few combinations.
+
+When the *Fandom - Pairing - Title* sequence is used, you then get (in my opinion) extremely neat view of a file in your reader file manager:
+
+![](/Users/olga/Library/Application%20Support/marktext/images/2026-08-15-21-52-30-image.png)
+
+When it comes to organising the files in Calibre, I just finished going over all the files in the library to establish whether or not they are bookmarked on ao3 and populating separate columns with metadata like tags (freeform especially) or wordcount. Wordcount is an especially cool column that will get you subcategories like these: *Less than 10000*, *Over 80000*, *Less than 40000*, etc. You can also use it to have a shortened wordcount like 68.0k or 3.5k put on a new cover generated by the superb *Generate Cover* plugin. I'll talk about that in a separate post.
