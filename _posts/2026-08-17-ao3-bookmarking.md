@@ -18,13 +18,13 @@ I have a bookmarking ritual that happens a few times a year. I open the file man
 
 After the bookmarking update is completed, I fire up the [AO3 Works List bookmarklet](https://random.fangirling.net/scripts/ao3_works_stats/) on each bookmarks page (20 fics per page). I then upload them all to Google Drive and open in Google Sheets to have a look at the whole spreadsheet (sometimes things get mangled in individual cells). I copy and paste each part into a single csv and further check if everything got imported right. I used to use Excel but the csv got mangled in some way while Sheets just gets it right every time. However, there's usually something funny in the *date* column. You can even see there's something different here in the screenshot.
 
-![ao3_work_list.jpg](/Users/olga/Library/Mobile%20Documents/com~apple~CloudDocs/github-blog/assets/images/ao3_work_list.jpg)
+![/assets/images/ao3_work_list.jpg](/Users/olga/Library/Mobile%20Documents/com~apple~CloudDocs/github-blog/assets/images/ao3_work_list.jpg)
 
 # Bookmarks to reading stats pipeline
 
 Until this year, I used to do my AO3 wrapped (reading stats) in Google Sheets. The works list from the bookmarklet csv is a ready-made list that paste into my dedicated spreadsheet and only append in the first column with a simplified *fandom general* identifier. I use it since sometimes there is more than one fandom listed by the author in a given work and I want a clear label for my sorting purposes. This is what the whole thing looks like.
 
-![ao3_stats_sheets.jpg](/Users/olga/Library/Mobile%20Documents/com~apple~CloudDocs/github-blog/assets/images/ao3_stats_sheets.jpg)
+![/assets/images/ao3_stats_sheets.jpg](/Users/olga/Library/Mobile%20Documents/com~apple~CloudDocs/github-blog/assets/images/ao3_stats_sheets.jpg)
 
 The data (input) from the bookmarklet starts from row 23, everything above is referencing the rows 23 and beyond (the formulas usually have ranges up to 500-ish or more). The *fandom general* column contains the following formula:
 
