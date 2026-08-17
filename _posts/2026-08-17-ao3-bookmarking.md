@@ -3,7 +3,6 @@ layout: post
 title: "Ao3 bookmarking: Appreciating authors and collecting your own stats"
 date: 2026-08-17 14:30:00
 tags: [ao3,reading,bookmarks,readingstats,google sheets,bookmarklet,]
-
 ---
 
 # Bookmarking on AO3 as reading tracker
