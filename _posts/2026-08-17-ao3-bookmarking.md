@@ -63,7 +63,7 @@ Earlier, I didn't think about it too much, updating the bookmarklet csv a few ti
 =COUNTIF(C23:C800, C23) > 1
 ```
 
-It lights up in read if a URL appears twice in the column. It's only useful if you're after unique bookmarks and not tracking re-reads—I'm not so duplicates may inflate my stats unnecessarily. I think I might post here my spreadsheet here later, maybe someone would find it useful. I'll attach a step-by-step tutorial too. Once I'm done with the R script for my 2020-2025 reading stats, I'll likely post it as well.
+It lights up in red if a URL appears twice in the column. It's only useful if you're after unique bookmarks and not tracking re-reads—I'm not so duplicates may inflate my stats unnecessarily. I think I might post here my spreadsheet here later, maybe someone would find it useful. I'll attach a step-by-step tutorial too. Once I'm done with the R script for my 2020-2025 reading stats, I'll likely post it as well.
 
 <script
     src="https://utteranc.es/client.js"
