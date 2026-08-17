@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AO3 wrapped spreadsheet template"
-date: 2026-08-17 22:30:00
+date: 2026-08-17 20:30:00
 tags: [ao3,reading,bookmarks,readingstats,googlesheets,]
 ---
 
