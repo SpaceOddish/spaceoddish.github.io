@@ -51,7 +51,7 @@ Another fun thing to check is which author I read most frequently:
 =ARRAY_CONSTRAIN(ARRAYFORMULA(index(D23:D575, match(max(countif(D23:D575, D23:D575)), countif(D23:D575, D23:D575), 0))), 1, 1)
 ```
 
-The column it references is the D column that contains the author of each work. I got this formula from somewhere and can't really recall how exactly it works. But it does!
+The column it references is the D column that contains the author of each work. I got this formula from somewhere and can't really recall how it exactly works. But it does!
 
 Then, there is the Hobbit count which divides the number of total words read in that year by the wordcount of the Hobbit (95,356). I find it easy to conceptualise how "thick" a given fic is if it were a physical book. It's also funny to thin I read 48 works that were as long as the Hobbit. 
 
