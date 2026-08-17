@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ao3 bookmarking: Appreciating authors and collecting your own stats"
-date: 2026-08-17 14:40:00
+date: 2026-08-17 12:40:00
 tags: [ao3,reading,bookmarks,readingstats,googlesheets,bookmarklet,]
 ---
 
